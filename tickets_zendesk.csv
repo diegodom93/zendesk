@@ -1,0 +1,44 @@
+ID do Ticket,Assunto,Descrição,Status,Prioridade,Criado em,Atualizado em,Solicitante ID,Responsável ID
+1,TICKET DE EXEMPLO: Conheça o ticket,"Olá,
+
+Estou enviando um e-mail porque estou com problemas para configurar seu novo produto. Você pode me ajudar a resolver o problema?
+
+Obrigado,
+ O cliente
+
+",open,normal,2025-05-23T23:48:31Z,2025-06-04T16:15:57Z,41548033529619,41548033137043
+2,TICKET DE EXEMPLO: Os produtos têm origem ética?,"Olá, tenho interesse em alguns dos seus produtos, mas quero saber se seus materiais têm origem sustentável e ética antes de adquirir.",pending,low,2025-05-23T23:50:08Z,2025-06-04T16:24:13Z,41548055390099,41548033137043
+3,EXEMPLO DE TICKET: Novo endereço de entrega,"Olá! Parece que eu avisei e digitei o endereço de entrega errado no meu pedido. Preciso corrigir isso rapidamente, mas não sei como fazer isso.
+Você pode me ajudar a alterar o endereço de entrega do meu pedido? Ou posso fazer isso no site? Além disso, há um prazo para quando posso fazer essa alteração?
+
+Obrigado pela ajuda!
+
+Ingrid Van Dijk",open,normal,2025-05-23T23:50:09Z,2025-06-04T16:18:02Z,41548065836947,41548033137043
+4,EXEMPLO DE TICKET: Custo de envio,"Olá, Tenho alguns itens interessantes no meu carrinho no seu site, mas antes de me aprofundar, quero saber quanto estarei pagando pelo frete. Os números podem ser um pouco assustadores quando você não sabe para que servem.
+
+Você pode me ajudar a entender o que influencia os custos de frete? Há uma calculadora ou fórmula que eu possa usar primeiro?",open,normal,2025-05-23T23:50:09Z,2025-06-04T16:17:46Z,41548055390099,41548033137043
+5,EXEMPLO DE TICKET: Eu resolvo tudo?,"Olá! Estava navegando no seu site e vejo sempre a menção ""Entrega de pacote simples"".
+
+Não sei ao certo o que isso significa. Isso diminui meu tempo de espera pela entrega ou apenas diminui o tamanho do pacote?
+
+E, quando o item de pacote fixo chegar, isso significa que eu terei que montá-lo?
+
+Sua ajuda para esclarecer isso seria muito apreciada!
+
+Obrigado,
+Soobin Do",solved,normal,2025-05-23T23:50:10Z,2025-06-04T16:24:41Z,41548065872659,41548033137043
+6,EXEMPLO: Como o Zendesk funciona,"Olá! Vejamos como você ou seus agentes podem responder e resolver tickets com facilidade.
+
+Fique à vontade para enviar consultas de teste adicionais por e-mail para **support@testapizendeskhelp.zendesk.com**.
+
+Mas, primeiro, vamos começar resolvendo um ticket.
+
+Sua Equipe Zendesk",solved,normal,2025-05-23T23:51:09Z,2025-06-04T16:24:34Z,41548076187283,41548033137043
+7,EXEMPLO: Como o Zendesk funciona,"Olá! Vejamos como você ou seus agentes podem responder e resolver tickets com facilidade.
+
+Fique à vontade para enviar consultas de teste adicionais por e-mail para **support@testapizendeskhelp.zendesk.com**.
+
+Mas, primeiro, vamos começar resolvendo um ticket.
+
+Sua Equipe Zendesk",pending,normal,2025-05-23T23:51:35Z,2025-06-04T16:24:18Z,41548076187283,41548033137043
+8,teste notificação de CSAT,teste envio por e-mail,closed,normal,2025-05-26T12:28:44Z,2025-05-30T13:01:27Z,41594186912787,41548033137043
